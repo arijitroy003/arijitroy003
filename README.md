@@ -24,6 +24,7 @@ class ArijitRoy:
         self.company = "Red Hat"
         self.location = "Bangalore, India"
         self.experience = "7+ years"
+        self.bio = "That Data guy who's good with Numbers"
         
     def current_focus(self):
         return [
@@ -182,7 +183,7 @@ class ArijitRoy:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=arijitroy003&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitroy003&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -213,7 +214,6 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudo-kill)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arijitroy003)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijitroy003@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917980045423)
 
 </div>
 
@@ -226,26 +226,6 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-## 🐍 Watch my contribution graph get eaten by the snake 🐍
-
-<div align="center">
-  
-![Snake animation](https://github.com/arijitroy003/arijitroy003/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 *"Building the future, one commit at a time"* 
-
-</div>
-
-<img src="https://raw.githubusercontent.com/arijitroy003/arijitroy003/output/github-contribution-grid-snake.svg" />
 
 ---
 
