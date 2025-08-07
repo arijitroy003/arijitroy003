@@ -183,10 +183,6 @@ class ArijitRoy:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitroy003&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijitroy003&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
