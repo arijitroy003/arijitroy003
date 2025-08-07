@@ -144,6 +144,7 @@ class ArijitRoy:
 - 💰 AI-First Fintech for US working class (50M+ users)
 - 🧠 LLM-powered Personal Finance Management tools
 - 💸 Secured $16k funding from Databricks with $24k commitments
+- 🔧 **Tech Stack:** AWS, Python, Databricks, Mixpanel, Metabase, LLMs
 
 </td>
 </tr>
@@ -157,6 +158,7 @@ class ArijitRoy:
 - 🛒 Conversational AI & Big Data for 120M+ users
 - 🤖 Built Generative AI Product Search & Recommendation Engine
 - ⚡ Optimized operations: **75% latency reduction, 80% cost savings**
+- 🔧 **Tech Stack:** Azure OpenAI, Mistral, LangChain, Embeddings, Vector DBs (Chroma/Milvus), Python, Spark, Databricks, Delta Lake, ADLS, Azure DevOps, KQL/SQL
 
 </td>
 <td width="50%">
@@ -168,6 +170,7 @@ class ArijitRoy:
 - 🤖 Built AI bot for social media marketing automation
 - 🏗️ MEAN Stack developer with 50+ APIs
 - 📚 Learning Management System Platform development
+- 🔧 **Tech Stack:** Python, AWS, Serverless, Web Scraping, TypeScript, Angular, Lambda, DynamoDB, MongoDB, Docker
 
 </td>
 </tr>
