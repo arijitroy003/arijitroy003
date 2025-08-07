@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+%26+AI+Platform+Expert;6%2B+Years+Building+Systems;Open+Source+Enthusiast;Problem+Solver+%26+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+%26+AI+Platform+Expert;7%2B+Years+Building+Systems;Open+Source+Enthusiast;Problem+Solver+%26+Innovator)
 
 </div>
 
@@ -23,7 +23,7 @@ class ArijitRoy:
         self.role = "Senior Software Engineer"
         self.company = "Red Hat"
         self.location = "Bangalore, India"
-        self.experience = "6+ years"
+        self.experience = "7+ years"
         
     def current_focus(self):
         return [
@@ -42,6 +42,77 @@ class ArijitRoy:
             "databases": ["SQL", "NoSQL", "Delta Lake", "Vector DBs"]
         }
 ```
+
+---
+
+## 🎯 Current Focus Areas
+
+<table>
+<tr>
+<td width="33%">
+
+### 🤖 AI Engineering
+- Building MCP servers for AI tools
+- LLM application development
+- Agentic framework design
+- AI observability & monitoring
+
+</td>
+<td width="33%">
+
+### 🏗️ Platform Engineering  
+- Self-service data platforms
+- GitOps & Infrastructure as Code
+- Kubernetes operators
+- Cloud-native architectures
+
+</td>
+<td width="33%">
+
+### 🌍 Open Source
+- Contributing to data tools
+- MCP protocol implementations
+- AI/ML frameworks
+- Developer productivity tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI/ML & Data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### Programming & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+</div>
 
 ---
 
@@ -137,76 +208,12 @@ class ArijitRoy:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitroy003&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arijitroy003&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijitroy003&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arijitroy003&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitroy003&repo=genai-toolbox&theme=tokyonight)](https://github.com/arijitroy003/genai-toolbox)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitroy003&repo=usernaut&theme=tokyonight)](https://github.com/arijitroy003/usernaut)
-
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 AI Engineering
-- Building MCP servers for AI tools
-- LLM application development
-- Agentic framework design
-- AI observability & monitoring
-
-</td>
-<td width="33%">
-
-### 🏗️ Platform Engineering  
-- Self-service data platforms
-- GitOps & Infrastructure as Code
-- Kubernetes operators
-- Cloud-native architectures
-
-</td>
-<td width="33%">
-
-### 🌍 Open Source
-- Contributing to data tools
-- MCP protocol implementations
-- AI/ML frameworks
-- Developer productivity tools
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education & Credentials
-
-🎓 **Masters in Computer Applications** - Jadavpur University (GPA: 8.81/10.0)  
-🎓 **Bachelor of Computer Science** - Ramakrishna Mission Vidyamandira (GPA: 8.49/10.0)
-
-**Specializations:** Distributed Systems • Cloud Computing • Information Retrieval • ML/AI • NLP
 
 ---
 
