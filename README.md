@@ -180,13 +180,19 @@ class ArijitRoy:
 
 ## 📊 GitHub Analytics
 
+### 🌐 Public Contributions
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arijitroy003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitroy003&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijitroy003&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijitroy003&theme=tokyo-night&hide_border=true" alt="Public Contribution Graph" />
+</div>
+
+### 🏢 Work & Private Contributions
+<div align="center">
+  <img src="./images/redhat-gitlab.png" alt="Red Hat GitLab Contributions Graph" />
 </div>
 
 ---
@@ -227,7 +233,3 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
