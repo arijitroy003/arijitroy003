@@ -1,0 +1,88 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
+  <title id="title">Arijit Kumar Roy &#8212; Data and AI systems built for production</title>
+  <desc id="description">Profile banner for a senior software engineer specializing in agentic AI, data platforms, and platform engineering at Red Hat.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.58" stop-color="#0a1728"/>
+      <stop offset="1" stop-color="#07101c"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b8cff" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#5b8cff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#55d6ff" stop-opacity="0.95"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#9fc7ff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="460" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="460" fill="url(#background)"/>
+    <rect x="690" width="510" height="320" fill="url(#grid)"/>
+    <circle cx="1080" cy="42" r="220" fill="#1e5fc7" opacity="0.08"/>
+    <circle cx="1130" cy="38" r="128" fill="#23b7d9" opacity="0.05"/>
+    <g fill="none" stroke="url(#signal)" stroke-width="1.5">
+      <path d="M720 76 C818 76 822 44 900 44 S1016 88 1172 88"/>
+      <path d="M710 108 C800 108 812 82 872 82 S952 128 1040 128 1108 110 1172 110"/>
+      <path d="M740 142 C818 142 820 112 890 112 S972 174 1068 174 1118 148 1172 148"/>
+      <path d="M700 188 C804 188 806 160 870 160 S956 214 1038 214 1116 190 1172 190"/>
+      <path d="M734 232 C808 232 832 202 900 202 S988 254 1072 254 1124 232 1172 232"/>
+    </g>
+    <g fill="#07111f" stroke="#55d6ff" stroke-width="1.5">
+      <circle cx="820" cy="74" r="5"/>
+      <circle cx="872" cy="82" r="4"/>
+      <circle cx="952" cy="128" r="5"/>
+      <circle cx="890" cy="112" r="4"/>
+      <circle cx="1038" cy="214" r="5"/>
+      <circle cx="1072" cy="254" r="4"/>
+    </g>
+    <g filter="url(#glow)">
+      <rect x="896" y="39" width="12" height="12" rx="2" fill="#5b8cff"/>
+      <rect x="1033" y="122" width="15" height="15" rx="3" fill="#55d6ff"/>
+      <rect x="1060" y="166" width="16" height="16" rx="3" fill="#5b8cff"/>
+      <rect x="1120" y="225" width="13" height="13" rx="2" fill="#55d6ff"/>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="458.5" rx="23.25" fill="none" stroke="#27405f" stroke-width="1.5"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="48" y="54" fill="#55d6ff" font-size="15" font-weight="700" letter-spacing="2.6">ARIJIT KUMAR ROY  /  BENGALURU, INDIA</text>
+    <text x="48" y="121" fill="#f8fafc" font-size="50" font-weight="750" letter-spacing="-1.6">Data &amp; AI systems.</text>
+    <text x="48" y="177" fill="#f8fafc" font-size="50" font-weight="750" letter-spacing="-1.6">Built for production.</text>
+    <text x="50" y="220" fill="#b8c9dc" font-size="20" font-weight="450">Senior Software Engineer &#183; Platform Engineering at Red Hat</text>
+    <text x="50" y="258" fill="#829ab4" font-size="15" font-weight="650" letter-spacing="1.35">AGENTIC AI  &#183;  DATA PLATFORMS  &#183;  CLOUD-NATIVE SYSTEMS</text>
+    <g transform="translate(938 276)">
+      <rect width="214" height="34" rx="17" fill="#0d2238" stroke="#2f5375"/>
+      <circle cx="20" cy="17" r="4" fill="#55d6ff"/>
+      <text x="34" y="22" fill="#cfe9ff" font-size="13" font-weight="700" letter-spacing="1">UPSTREAM CONTRIBUTOR</text>
+    </g>
+    <g>
+      <rect x="32" y="324" width="269" height="108" rx="14" fill="#0b1a2b" stroke="#213b58"/>
+      <text x="54" y="362" fill="#55d6ff" font-size="26" font-weight="750">38 &#8594; 4 min</text>
+      <text x="54" y="389" fill="#d8e5f2" font-size="15" font-weight="600">Initial investigation</text>
+      <text x="54" y="412" fill="#7f98b3" font-size="13">with a production reliability agent</text>
+      <rect x="321" y="324" width="269" height="108" rx="14" fill="#0b1a2b" stroke="#213b58"/>
+      <text x="343" y="362" fill="#55d6ff" font-size="26" font-weight="750">1,000+ hrs</text>
+      <text x="343" y="389" fill="#d8e5f2" font-size="15" font-weight="600">Lead-engineer time saved</text>
+      <text x="343" y="412" fill="#7f98b3" font-size="13">every year through orchestration</text>
+      <rect x="610" y="324" width="269" height="108" rx="14" fill="#0b1a2b" stroke="#213b58"/>
+      <text x="632" y="362" fill="#55d6ff" font-size="26" font-weight="750">$200K+ / yr</text>
+      <text x="632" y="389" fill="#d8e5f2" font-size="15" font-weight="600">Infrastructure savings</text>
+      <text x="632" y="412" fill="#7f98b3" font-size="13">from modernizing the data mesh</text>
+      <rect x="899" y="324" width="269" height="108" rx="14" fill="#0b1a2b" stroke="#213b58"/>
+      <text x="921" y="362" fill="#55d6ff" font-size="26" font-weight="750">100+ products</text>
+      <text x="921" y="389" fill="#d8e5f2" font-size="15" font-weight="600">Enabled at enterprise scale</text>
+      <text x="921" y="412" fill="#7f98b3" font-size="13">with governance built into delivery</text>
+    </g>
+  </g>
+</svg>

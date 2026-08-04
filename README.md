@@ -1,235 +1,119 @@
-# Hey there! I'm Arijit Kumar Roy 👋
+<!-- markdownlint-disable MD033 MD041 -->
 
-<div align="center">
+<img src="./images/readme-hero.svg" alt="Arijit Kumar Roy — Data and AI systems built for production" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Data+%26+AI+Platform+Expert;7%2B+Years+Building+Systems;Open+Source+Enthusiast;Problem+Solver+%26+Innovator)
+<p align="center">
+  <a href="https://arijitroy003.github.io"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sudo-kill"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:arijitroy003@gmail.com"><strong>Email</strong></a>
+</p>
 
-</div>
+I turn expensive, ambiguous data operations into dependable production systems: agents that shorten incident response, platforms that make governed data self-service, and automation that gives senior engineers their time back.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijitroy003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arijitroy003?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/arijitroy003?label=Stars&style=social" alt="GitHub Stars" />
-</div>
+Today I am a **Senior Software Engineer in Data & AI Platform Engineering at [Red Hat](https://www.redhat.com)**. Across eight years, I have built for regulated enterprise platforms and consumer products serving up to **120M+ users** and **500M events per day**.
 
----
+## What I build
 
-## 🚀 About Me
+### 01 / Agentic AI
 
-```python
-class ArijitRoy:
-    def __init__(self):
-        self.name = "Arijit Kumar Roy"
-        self.role = "Senior Software Engineer"
-        self.company = "Red Hat"
-        self.location = "Bangalore, India"
-        self.experience = "7+ years"
-        self.bio = "That Data guy who's good with Numbers"
-        
-    def current_focus(self):
-        return [
-            "Building self-service Data Platform Frameworks",
-            "AI/ML Engineering & LLM Applications", 
-            "Open Source Contributions",
-            "Kubernetes & Cloud-Native Solutions"
-        ]
-    
-    def specializes_in(self):
-        return {
-            "data_engineering": ["Snowflake", "dbt", "Spark", "Databricks"],
-            "ai_ml": ["LangChain", "OpenAI", "Claude", "Embeddings"],
-            "cloud": ["AWS", "Azure", "Kubernetes", "GitOps"], 
-            "backend": ["Python", "Golang", "APIs", "Microservices"],
-            "databases": ["SQL", "NoSQL", "Delta Lake", "Vector DBs"]
-        }
-```
+Production MCP and LangChain systems for investigation, release orchestration, metadata intelligence, and operational decision support—with observability and human handoffs designed in.
 
----
+### 02 / Data platforms
 
-## 🎯 Current Focus Areas
+Self-service data products on Snowflake, Databricks, dbt, Spark, and Delta Lake, with governance, quality, lineage, and cost controls embedded in the paved road.
 
-<table>
-<tr>
-<td width="33%">
+### 03 / Platform engineering
 
-### 🤖 AI Engineering
-- Building MCP servers for AI tools
-- LLM application development
-- Agentic framework design
-- AI observability & monitoring
+Cloud-native control planes and developer workflows built with Python, Go, Kubernetes, OpenShift, GitOps, Terraform, and pragmatic automation.
 
-</td>
-<td width="33%">
+## Systems I have shipped
 
-### 🏗️ Platform Engineering  
-- Self-service data platforms
-- GitOps & Infrastructure as Code
-- Kubernetes operators
-- Cloud-native architectures
+| System | What changed | Scale and stack |
+| --- | --- | --- |
+| **Data Reliability Agent** | Automated first-line pipeline triage and reduced initial investigation from **~38 minutes to ~4 minutes**. | MCP, LangChain, OpenShift, Langfuse |
+| **Release Assistant** | Orchestrated governed releases and saved **1,000+ lead-engineer hours annually**. | Python, GitOps, Snowflake, 150+ compliant data products |
+| **Self-service Data Mesh** | Replaced legacy Redshift/Starburst paths and reduced infrastructure cost by **$200K+/year**. | OpenShift, dbt, Snowflake, Kubernetes |
+| **Consumer AI at scale** | Built GenAI search, recommendations, and conversational systems for Tata Neu and Beem. | 120M+ users, 500M events/day, 12 Indic languages |
 
-</td>
-<td width="33%">
+## Open source, upstream
 
-### 🌍 Open Source
-- Contributing to data tools
-- MCP protocol implementations
-- AI/ML frameworks
-- Developer productivity tools
+I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
-</td>
-</tr>
-</table>
+<!-- open-source starts -->
+**54 merged upstream pull requests** across **27 repositories**, including the DuckDB, vLLM, Red Hat, dbt Labs, Apache, llm-d, and LangChain communities.
 
----
+<details>
+<summary><strong>Latest merged upstream pull requests</strong></summary>
 
-## 🛠️ Tech Arsenal
+- [**duckdb/dbt-duckdb #808**](https://github.com/duckdb/dbt-duckdb/pull/808) — fix: escape single quotes in generated SQL for config values · `2026-08-03`
+- [**apache/superset #42569**](https://github.com/apache/superset/pull/42569) — chore\(mcp\): remove unused MCP\_SERVICE\_HOST and MCP\_SERVICE\_PORT config · `2026-07-31`
+- [**apache/airflow #70680**](https://github.com/apache/airflow/pull/70680) — Fix insecure HTTP links in documentation · `2026-07-31`
+- [**apache/arrow-rs #10481**](https://github.com/apache/arrow-rs/pull/10481) — Add LICENSE.txt and NOTICE.txt to pyarrow crates · `2026-07-31`
+- [**apache/superset #42565**](https://github.com/apache/superset/pull/42565) — fix\(docs\): Fix insecure HTTP links in README.md · `2026-07-29`
+- [**vllm-project/compressed-tensors #794**](https://github.com/vllm-project/compressed-tensors/pull/794) — Add SECURITY.md with vulnerability reporting policy · `2026-07-29`
 
-<div align="center">
+</details>
+<!-- open-source ends -->
 
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Selected engineering contributions
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **[duckdb/dbt-duckdb #808](https://github.com/duckdb/dbt-duckdb/pull/808)** — escaped quotes in generated SQL configuration values.
+- **[duckdb/ducklake #1324](https://github.com/duckdb/ducklake/pull/1324)** — fixed thread-unsafe CRC32 table initialization.
+- **[duckdb/duckdb-rs #822](https://github.com/duckdb/duckdb-rs/pull/822)** — returned configuration errors instead of panicking.
+- **[dbt-labs/dbt-codegen #271](https://github.com/dbt-labs/dbt-codegen/pull/271)** — hardened shell variable handling against injection.
 
-### AI/ML & Data
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+## Current lab
 
-### Programming & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+Small, public experiments where I explore agent interfaces, developer tooling, data workflows, and useful automation.
 
-</div>
+<!-- projects starts -->
+| Project | What it explores | Language |
+| --- | --- | --- |
+| [**linkedin-mcp-server**](https://github.com/arijitroy003/linkedin-mcp-server) | LinkedIn automation MCP server wrapping the unofficial linkedin-api | `Python` |
+| [**snap-a-miro**](https://github.com/arijitroy003/snap-a-miro) | Convert whiteboard photos into interactive Miro boards using AI vision analysis | `JavaScript` |
+| [**datadiff**](https://github.com/arijitroy003/datadiff) | High-performance CLI tool for semantic diffing of tabular data \(CSV, Excel, Parquet, JSON\) with Git integration | `Rust` |
+| [**flight-tracker**](https://github.com/arijitroy003/flight-tracker) | Local flight price tracker with web UI - supports Amadeus &amp; Skyscanner APIs, daily price monitoring, Indian market optimized | `Python` |
+<!-- projects ends -->
 
----
+<details>
+<summary><strong>Recent public activity</strong></summary>
 
-## 💼 Professional Journey
+<!-- activity starts -->
+- Worked on a pull request in [**duckdb/dbt-duckdb**](https://github.com/duckdb/dbt-duckdb) · `2026-08-03`
+- Pushed commits to [**arijitroy003/ducklake**](https://github.com/arijitroy003/ducklake) · `2026-08-03`
+- Pushed commits to [**arijitroy003/dbt-duckdb**](https://github.com/arijitroy003/dbt-duckdb) · `2026-08-03`
+- Worked on a pull request in [**apache/superset**](https://github.com/apache/superset) · `2026-07-31`
+- Worked on a pull request in [**apache/airflow**](https://github.com/apache/airflow) · `2026-07-31`
+<!-- activity ends -->
 
-<table>
-<tr>
-<td width="50%">
+</details>
 
-### 🔴 **Red Hat** (Current)
-**Senior Software Engineer | Data & AI Platform**  
-*Apr 2024 - Present*
+## Enterprise contributions
 
-- 🏗️ Building self-service Data Platform Framework (future open-source)
-- 🤖 Metadata Completeness for Agentic frameworks & MCP servers
-- 🔧 **Tech Stack:** GitOps, Snowflake, dbt-Core, AWS, Golang, K8s
+Most of my production work ships to Red Hat's private GitLab. This activity graph provides the missing context that a public GitHub contribution graph cannot.
 
-</td>
-<td width="50%">
+<img src="./images/redhat-gitlab-july2026.png" alt="Red Hat GitLab contribution activity from July 2025 through July 2026" width="100%" />
 
-### 🐝 **BEEM** 
-**Senior Data Engineer | FinTech**  
-*Nov 2023 - Mar 2024*
+## Technical toolkit
 
-- 💰 AI-First Fintech for US working class (50M+ users)
-- 🧠 LLM-powered Personal Finance Management tools
-- 💸 Secured $16k funding from Databricks with $24k commitments
-- 🔧 **Tech Stack:** AWS, Python, Databricks, Mixpanel, Metabase, LLMs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏢 **Tata Digital**
-**Senior Software Engineer | E-commerce**  
-*Aug 2021 - Oct 2023*
-
-- 🛒 Conversational AI & Big Data for 120M+ users
-- 🤖 Built Generative AI Product Search & Recommendation Engine
-- ⚡ Optimized operations: **75% latency reduction, 80% cost savings**
-- 🔧 **Tech Stack:** Azure OpenAI, Mistral, LangChain, Embeddings, Vector DBs (Chroma/Milvus), Python, Spark, Databricks, Delta Lake, ADLS, Azure DevOps, KQL/SQL
-
-</td>
-<td width="50%">
-
-### 🧪 **Gnosis Lab**
-**Founding Engineer | AI Automation**  
-*Jun 2019 - May 2021*
-
-- 🤖 Built AI bot for social media marketing automation
-- 🏗️ MEAN Stack developer with 50+ APIs
-- 📚 Learning Management System Platform development
-- 🔧 **Tech Stack:** Python, AWS, Serverless, Web Scraping, TypeScript, Angular, Lambda, DynamoDB, MongoDB, Docker
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-### 🌐 Public Contributions
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arijitroy003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitroy003&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijitroy003&theme=tokyo-night&hide_border=true" alt="Public Contribution Graph" />
-</div>
-
-### 🏢 Work & Private Contributions
-<div align="center">
-  <img src="./images/redhat-gitlab.png" alt="Red Hat GitLab Contributions Graph" />
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
 ```text
-Python       12 hrs 45 mins  ████████████░░░░░░░░░░░░░   48.5%
-Go           5 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   20.4%
-SQL          3 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   12.2%
-YAML         2 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   8.1%
-JavaScript   1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   6.7%
-Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   4.1%
+languages    Python · Go · Rust · SQL · TypeScript
+data         Snowflake · dbt · Databricks · Spark · Delta Lake · Kafka · Airflow
+ai systems   LangChain · MCP · OpenAI · Claude · Mistral · Vector DBs · Langfuse
+platform     Kubernetes · OpenShift · GitOps · Terraform · Docker · AWS · Azure · GCP
 ```
-<!--END_SECTION:waka-->
+
+**MCA, Jadavpur University** · Distributed systems and information retrieval research at ISI Kolkata
 
 ---
 
-## 🌐 Let's Connect!
+<p align="center">
+  <strong>Building a serious data platform or production AI system?</strong><br />
+  <a href="mailto:arijitroy003@gmail.com">Start a conversation</a>
+  &nbsp;·&nbsp;
+  <a href="https://arijitroy003.github.io">Explore my work</a>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudo-kill)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arijitroy003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijitroy003@gmail.com)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
+<p align="center"><sub>Project, activity, and upstream contribution data refresh automatically through GitHub Actions.</sub></p>
