@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Pushed commits to [**arijitroy003/template-agent**](https://github.com/arijitroy003/template-agent) · `2026-08-04`
+- Pushed commits to [**arijitroy003/arijitroy003**](https://github.com/arijitroy003/arijitroy003) · `2026-08-04`
 - Worked on a pull request in [**duckdb/dbt-duckdb**](https://github.com/duckdb/dbt-duckdb) · `2026-08-03`
 - Pushed commits to [**arijitroy003/ducklake**](https://github.com/arijitroy003/ducklake) · `2026-08-03`
 - Pushed commits to [**arijitroy003/dbt-duckdb**](https://github.com/arijitroy003/dbt-duckdb) · `2026-08-03`
-- Worked on a pull request in [**apache/superset**](https://github.com/apache/superset) · `2026-07-31`
-- Worked on a pull request in [**apache/airflow**](https://github.com/apache/airflow) · `2026-07-31`
 <!-- activity ends -->
 
 </details>
