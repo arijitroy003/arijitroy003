@@ -42,17 +42,17 @@ Cloud-native control planes and developer workflows built with Python, Go, Kuber
 I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
 <!-- open-source starts -->
-**54 merged upstream pull requests** across **27 repositories**, including the DuckDB, vLLM, Red Hat, dbt Labs, Apache, llm-d, and LangChain communities.
+**56 merged upstream pull requests** across **27 repositories**, including the DuckDB, vLLM, Red Hat, dbt Labs, llm-d, Apache, and LangChain communities.
 
 <details>
 <summary><strong>Latest merged upstream pull requests</strong></summary>
 
+- [**llm-d/llm-d #2102**](https://github.com/llm-d/llm-d/pull/2102) — fix: quote variable expansion and remove broken link in guides/ · `2026-08-10`
+- [**duckdb/ducklake #1322**](https://github.com/duckdb/ducklake/pull/1322) — Replace debug-only assertions with runtime bounds checks in deletion vector parsing · `2026-08-10`
 - [**duckdb/dbt-duckdb #808**](https://github.com/duckdb/dbt-duckdb/pull/808) — fix: escape single quotes in generated SQL for config values · `2026-08-03`
 - [**apache/superset #42569**](https://github.com/apache/superset/pull/42569) — chore\(mcp\): remove unused MCP\_SERVICE\_HOST and MCP\_SERVICE\_PORT config · `2026-07-31`
 - [**apache/airflow #70680**](https://github.com/apache/airflow/pull/70680) — Fix insecure HTTP links in documentation · `2026-07-31`
 - [**apache/arrow-rs #10481**](https://github.com/apache/arrow-rs/pull/10481) — Add LICENSE.txt and NOTICE.txt to pyarrow crates · `2026-07-31`
-- [**apache/superset #42565**](https://github.com/apache/superset/pull/42565) — fix\(docs\): Fix insecure HTTP links in README.md · `2026-07-29`
-- [**vllm-project/compressed-tensors #794**](https://github.com/vllm-project/compressed-tensors/pull/794) — Add SECURITY.md with vulnerability reporting policy · `2026-07-29`
 
 </details>
 <!-- open-source ends -->
@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Worked on a pull request in [**llm-d/llm-d**](https://github.com/llm-d/llm-d) · `2026-08-10`
+- Worked on a pull request in [**duckdb/ducklake**](https://github.com/duckdb/ducklake) · `2026-08-10`
 - Pushed commits to [**arijitroy003/UnifAI**](https://github.com/arijitroy003/UnifAI) · `2026-08-06`
 - Worked on a pull request in [**redhat-community-ai-tools/UnifAI**](https://github.com/redhat-community-ai-tools/UnifAI) · `2026-08-06`
 - Pushed commits to [**arijitroy003/template-agent**](https://github.com/arijitroy003/template-agent) · `2026-08-04`
-- Pushed commits to [**arijitroy003/arijitroy003**](https://github.com/arijitroy003/arijitroy003) · `2026-08-04`
-- Worked on a pull request in [**duckdb/dbt-duckdb**](https://github.com/duckdb/dbt-duckdb) · `2026-08-03`
 <!-- activity ends -->
 
 </details>
