@@ -42,17 +42,17 @@ Cloud-native control planes and developer workflows built with Python, Go, Kuber
 I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
 <!-- open-source starts -->
-**57 merged upstream pull requests** across **27 repositories**, including the DuckDB, vLLM, Red Hat, dbt Labs, llm-d, Apache, and LangChain communities.
+**59 merged upstream pull requests** across **28 repositories**, including the DuckDB, vLLM, Red Hat, dbt Labs, llm-d, Apache, and LangChain communities.
 
 <details>
 <summary><strong>Latest merged upstream pull requests</strong></summary>
 
+- [**dbt-labs/dbt-autofix #404**](https://github.com/dbt-labs/dbt-autofix/pull/404) — Fix typos, move dependabot.yml to correct location, fix CODEOWNERS path · `2026-08-17`
+- [**dbt-labs/dbt-autofix #405**](https://github.com/dbt-labs/dbt-autofix/pull/405) — Fix IsADirectoryError crash and bare except clauses · `2026-08-17`
 - [**vllm-project/compressed-tensors #789**](https://github.com/vllm-project/compressed-tensors/pull/789) — Update Black target-version to py310 · `2026-08-13`
 - [**llm-d/llm-d #2102**](https://github.com/llm-d/llm-d/pull/2102) — fix: quote variable expansion and remove broken link in guides/ · `2026-08-10`
 - [**duckdb/ducklake #1322**](https://github.com/duckdb/ducklake/pull/1322) — Replace debug-only assertions with runtime bounds checks in deletion vector parsing · `2026-08-10`
 - [**duckdb/dbt-duckdb #808**](https://github.com/duckdb/dbt-duckdb/pull/808) — fix: escape single quotes in generated SQL for config values · `2026-08-03`
-- [**apache/superset #42569**](https://github.com/apache/superset/pull/42569) — chore\(mcp\): remove unused MCP\_SERVICE\_HOST and MCP\_SERVICE\_PORT config · `2026-07-31`
-- [**apache/airflow #70680**](https://github.com/apache/airflow/pull/70680) — Fix insecure HTTP links in documentation · `2026-07-31`
 
 </details>
 <!-- open-source ends -->
@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Worked on a pull request in [**dbt-labs/dbt-autofix**](https://github.com/dbt-labs/dbt-autofix) · `2026-08-17`
 - Worked on a pull request in [**vllm-project/compressed-tensors**](https://github.com/vllm-project/compressed-tensors) · `2026-08-13`
 - Worked on a pull request in [**llm-d/llm-d**](https://github.com/llm-d/llm-d) · `2026-08-10`
 - Worked on a pull request in [**duckdb/ducklake**](https://github.com/duckdb/ducklake) · `2026-08-10`
 - Pushed commits to [**arijitroy003/UnifAI**](https://github.com/arijitroy003/UnifAI) · `2026-08-06`
-- Worked on a pull request in [**redhat-community-ai-tools/UnifAI**](https://github.com/redhat-community-ai-tools/UnifAI) · `2026-08-06`
 <!-- activity ends -->
 
 </details>
