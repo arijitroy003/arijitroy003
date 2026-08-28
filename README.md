@@ -42,17 +42,17 @@ Cloud-native control planes and developer workflows built with Python, Go, Kuber
 I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
 <!-- open-source starts -->
-**60 merged upstream pull requests** across **28 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
+**61 merged upstream pull requests** across **29 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
 
 <details>
 <summary><strong>Latest merged upstream pull requests</strong></summary>
 
+- [**langchain-ai/langchain-google #1912**](https://github.com/langchain-ai/langchain-google/pull/1912) — docs: fix broken CONTRIBUTING.md link and stale branch references · `2026-08-27`
 - [**dbt-labs/dbt-jobs-as-code #216**](https://github.com/dbt-labs/dbt-jobs-as-code/pull/216) — Fix typos and scope CI permissions · `2026-08-25`
 - [**dbt-labs/dbt-autofix #404**](https://github.com/dbt-labs/dbt-autofix/pull/404) — Fix typos, move dependabot.yml to correct location, fix CODEOWNERS path · `2026-08-17`
 - [**dbt-labs/dbt-autofix #405**](https://github.com/dbt-labs/dbt-autofix/pull/405) — Fix IsADirectoryError crash and bare except clauses · `2026-08-17`
 - [**vllm-project/compressed-tensors #789**](https://github.com/vllm-project/compressed-tensors/pull/789) — Update Black target-version to py310 · `2026-08-13`
 - [**llm-d/llm-d #2102**](https://github.com/llm-d/llm-d/pull/2102) — fix: quote variable expansion and remove broken link in guides/ · `2026-08-10`
-- [**duckdb/ducklake #1322**](https://github.com/duckdb/ducklake/pull/1322) — Replace debug-only assertions with runtime bounds checks in deletion vector parsing · `2026-08-10`
 
 </details>
 <!-- open-source ends -->
@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Worked on a pull request in [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) · `2026-08-27`
 - Pushed commits to [**arijitroy003/llm-compressor**](https://github.com/arijitroy003/llm-compressor) · `2026-08-25`
 - Pushed commits to [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-08-25`
 - Pushed commits to [**arijitroy003/production-stack**](https://github.com/arijitroy003/production-stack) · `2026-08-25`
 - Pushed commits to [**arijitroy003/llm-d-workload-variant-autoscaler**](https://github.com/arijitroy003/llm-d-workload-variant-autoscaler) · `2026-08-25`
-- Pushed commits to [**arijitroy003/recipes**](https://github.com/arijitroy003/recipes) · `2026-08-25`
 <!-- activity ends -->
 
 </details>
