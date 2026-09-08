@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Published a release in [**arijitroy003/arijitroy003.github.io**](https://github.com/arijitroy003/arijitroy003.github.io) · `2026-09-08`
 - Worked on a pull request in [**dbt-labs/dbt-utils**](https://github.com/dbt-labs/dbt-utils) · `2026-09-01`
 - Worked on a pull request in [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) · `2026-08-27`
 - Pushed commits to [**arijitroy003/llm-compressor**](https://github.com/arijitroy003/llm-compressor) · `2026-08-25`
 - Pushed commits to [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-08-25`
-- Pushed commits to [**arijitroy003/production-stack**](https://github.com/arijitroy003/production-stack) · `2026-08-25`
 <!-- activity ends -->
 
 </details>
