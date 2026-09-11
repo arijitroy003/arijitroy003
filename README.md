@@ -42,17 +42,17 @@ Cloud-native control planes and developer workflows built with Python, Go, Kuber
 I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
 <!-- open-source starts -->
-**62 merged upstream pull requests** across **30 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
+**63 merged upstream pull requests** across **30 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
 
 <details>
 <summary><strong>Latest merged upstream pull requests</strong></summary>
 
+- [**vllm-project/llm-compressor #2960**](https://github.com/vllm-project/llm-compressor/pull/2960) — \[Typing\] Modernize type hints in logger, datasets, and observers · `2026-09-11`
 - [**dbt-labs/dbt-utils #1114**](https://github.com/dbt-labs/dbt-utils/pull/1114) — Fix variable name typo in haversine\_distance documentation · `2026-09-01`
 - [**langchain-ai/langchain-google #1912**](https://github.com/langchain-ai/langchain-google/pull/1912) — docs: fix broken CONTRIBUTING.md link and stale branch references · `2026-08-27`
 - [**dbt-labs/dbt-jobs-as-code #216**](https://github.com/dbt-labs/dbt-jobs-as-code/pull/216) — Fix typos and scope CI permissions · `2026-08-25`
 - [**dbt-labs/dbt-autofix #404**](https://github.com/dbt-labs/dbt-autofix/pull/404) — Fix typos, move dependabot.yml to correct location, fix CODEOWNERS path · `2026-08-17`
 - [**dbt-labs/dbt-autofix #405**](https://github.com/dbt-labs/dbt-autofix/pull/405) — Fix IsADirectoryError crash and bare except clauses · `2026-08-17`
-- [**vllm-project/compressed-tensors #789**](https://github.com/vllm-project/compressed-tensors/pull/789) — Update Black target-version to py310 · `2026-08-13`
 
 </details>
 <!-- open-source ends -->
@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Worked on a pull request in [**vllm-project/llm-compressor**](https://github.com/vllm-project/llm-compressor) · `2026-09-11`
 - Pushed commits to [**arijitroy003/arijitroy003.github.io**](https://github.com/arijitroy003/arijitroy003.github.io) · `2026-09-08`
 - Worked on a pull request in [**dbt-labs/dbt-utils**](https://github.com/dbt-labs/dbt-utils) · `2026-09-01`
 - Worked on a pull request in [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) · `2026-08-27`
 - Pushed commits to [**arijitroy003/llm-compressor**](https://github.com/arijitroy003/llm-compressor) · `2026-08-25`
-- Pushed commits to [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-08-25`
 <!-- activity ends -->
 
 </details>
