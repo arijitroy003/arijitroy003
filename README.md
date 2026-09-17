@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Pushed commits to [**arijitroy003/neetcode-submissions**](https://github.com/arijitroy003/neetcode-submissions) · `2026-09-17`
 - Pushed commits to [**arijitroy003/arijitroy003.github.io**](https://github.com/arijitroy003/arijitroy003.github.io) · `2026-09-14`
 - Pushed commits to [**arijitroy003/livekit-voice-agent**](https://github.com/arijitroy003/livekit-voice-agent) · `2026-09-14`
 - Worked on a pull request in [**vllm-project/llm-compressor**](https://github.com/vllm-project/llm-compressor) · `2026-09-11`
 - Worked on a pull request in [**dbt-labs/dbt-utils**](https://github.com/dbt-labs/dbt-utils) · `2026-09-01`
-- Worked on a pull request in [**langchain-ai/langchain-google**](https://github.com/langchain-ai/langchain-google) · `2026-08-27`
 <!-- activity ends -->
 
 </details>
