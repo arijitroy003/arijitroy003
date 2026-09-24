@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
-- Pushed commits to [**arijitroy003/neetcode-submissions**](https://github.com/arijitroy003/neetcode-submissions) · `2026-09-17`
-- Pushed commits to [**arijitroy003/arijitroy003.github.io**](https://github.com/arijitroy003/arijitroy003.github.io) · `2026-09-14`
-- Pushed commits to [**arijitroy003/livekit-voice-agent**](https://github.com/arijitroy003/livekit-voice-agent) · `2026-09-14`
-- Worked on a pull request in [**vllm-project/llm-compressor**](https://github.com/vllm-project/llm-compressor) · `2026-09-11`
-- Worked on a pull request in [**dbt-labs/dbt-utils**](https://github.com/dbt-labs/dbt-utils) · `2026-09-01`
+- Created a repository, branch, or tag in [**arijitroy003/iceberg-rust**](https://github.com/arijitroy003/iceberg-rust) · `2026-09-24`
+- Created a repository, branch, or tag in [**arijitroy003/doris-mcp-server**](https://github.com/arijitroy003/doris-mcp-server) · `2026-09-24`
+- Created a repository, branch, or tag in [**arijitroy003/datafusion-python**](https://github.com/arijitroy003/datafusion-python) · `2026-09-24`
+- Created a repository, branch, or tag in [**arijitroy003/datafusion-ballista**](https://github.com/arijitroy003/datafusion-ballista) · `2026-09-24`
+- Created a repository, branch, or tag in [**arijitroy003/snap-a-miro**](https://github.com/arijitroy003/snap-a-miro) · `2026-09-24`
 <!-- activity ends -->
 
 </details>
