@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
-- Created a repository, branch, or tag in [**arijitroy003/vllm**](https://github.com/arijitroy003/vllm) · `2026-09-24`
-- Created a repository, branch, or tag in [**arijitroy003/datafusion-ballista**](https://github.com/arijitroy003/datafusion-ballista) · `2026-09-24`
-- Created a repository, branch, or tag in [**arijitroy003/livekit-voice-agent**](https://github.com/arijitroy003/livekit-voice-agent) · `2026-09-24`
-- Created a repository, branch, or tag in [**arijitroy003/iggy**](https://github.com/arijitroy003/iggy) · `2026-09-24`
-- Created a repository, branch, or tag in [**arijitroy003/iceberg-rust**](https://github.com/arijitroy003/iceberg-rust) · `2026-09-24`
+- Created a repository, branch, or tag in [**arijitroy003/semantic-router**](https://github.com/arijitroy003/semantic-router) · `2026-09-25`
+- Created a repository, branch, or tag in [**arijitroy003/production-stack**](https://github.com/arijitroy003/production-stack) · `2026-09-25`
+- Created a repository, branch, or tag in [**arijitroy003/static-website-template-for-ospo**](https://github.com/arijitroy003/static-website-template-for-ospo) · `2026-09-25`
+- Created a repository, branch, or tag in [**arijitroy003/langchain-azure**](https://github.com/arijitroy003/langchain-azure) · `2026-09-25`
+- Created a repository, branch, or tag in [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-09-25`
 <!-- activity ends -->
 
 </details>
