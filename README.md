@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Pushed commits to [**arijitroy003/neetcode-submissions**](https://github.com/arijitroy003/neetcode-submissions) · `2026-10-05`
 - Pushed commits to [**arijitroy003/semantic-router**](https://github.com/arijitroy003/semantic-router) · `2026-10-05`
 - Created a repository, branch, or tag in [**arijitroy003/production-stack**](https://github.com/arijitroy003/production-stack) · `2026-09-25`
 - Created a repository, branch, or tag in [**arijitroy003/static-website-template-for-ospo**](https://github.com/arijitroy003/static-website-template-for-ospo) · `2026-09-25`
 - Created a repository, branch, or tag in [**arijitroy003/langchain-azure**](https://github.com/arijitroy003/langchain-azure) · `2026-09-25`
-- Created a repository, branch, or tag in [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-09-25`
 <!-- activity ends -->
 
 </details>
