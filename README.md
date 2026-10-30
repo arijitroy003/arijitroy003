@@ -42,17 +42,17 @@ Cloud-native control planes and developer workflows built with Python, Go, Kuber
 I contribute correctness fixes, security hardening, CI improvements, typing support, tests, and documentation across the data and AI ecosystem.
 
 <!-- open-source starts -->
-**64 merged upstream pull requests** across **30 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
+**65 merged upstream pull requests** across **30 repositories**, including the DuckDB, vLLM, dbt Labs, Red Hat, llm-d, Apache, and LangChain communities.
 
 <details>
 <summary><strong>Latest merged upstream pull requests</strong></summary>
 
+- [**vllm-project/llm-compressor #2957**](https://github.com/vllm-project/llm-compressor/pull/2957) — Add logging to silently swallowed exceptions in ModifierFactory · `2026-10-29`
 - [**duckdb/ducklake #1325**](https://github.com/duckdb/ducklake/pull/1325) — Fix incorrect error messages and remove dead code · `2026-10-19`
 - [**vllm-project/llm-compressor #2960**](https://github.com/vllm-project/llm-compressor/pull/2960) — \[Typing\] Modernize type hints in logger, datasets, and observers · `2026-09-11`
 - [**dbt-labs/dbt-utils #1114**](https://github.com/dbt-labs/dbt-utils/pull/1114) — Fix variable name typo in haversine\_distance documentation · `2026-09-01`
 - [**langchain-ai/langchain-google #1912**](https://github.com/langchain-ai/langchain-google/pull/1912) — docs: fix broken CONTRIBUTING.md link and stale branch references · `2026-08-27`
 - [**dbt-labs/dbt-jobs-as-code #216**](https://github.com/dbt-labs/dbt-jobs-as-code/pull/216) — Fix typos and scope CI permissions · `2026-08-25`
-- [**dbt-labs/dbt-autofix #404**](https://github.com/dbt-labs/dbt-autofix/pull/404) — Fix typos, move dependabot.yml to correct location, fix CODEOWNERS path · `2026-08-17`
 
 </details>
 <!-- open-source ends -->
@@ -81,6 +81,7 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
+- Worked on a pull request in [**vllm-project/llm-compressor**](https://github.com/vllm-project/llm-compressor) · `2026-10-29`
 - Pushed commits to [**arijitroy003/vllm-omni**](https://github.com/arijitroy003/vllm-omni) · `2026-10-28`
 - Worked on a pull request in [**duckdb/ducklake**](https://github.com/duckdb/ducklake) · `2026-10-19`
 - Pushed commits to [**arijitroy003/neetcode-submissions**](https://github.com/arijitroy003/neetcode-submissions) · `2026-10-11`
