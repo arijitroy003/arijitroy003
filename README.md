@@ -85,7 +85,6 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 - Pushed commits to [**arijitroy003/vllm-omni**](https://github.com/arijitroy003/vllm-omni) · `2026-10-28`
 - Worked on a pull request in [**duckdb/ducklake**](https://github.com/duckdb/ducklake) · `2026-10-19`
 - Pushed commits to [**arijitroy003/neetcode-submissions**](https://github.com/arijitroy003/neetcode-submissions) · `2026-10-11`
-- Pushed commits to [**arijitroy003/semantic-router**](https://github.com/arijitroy003/semantic-router) · `2026-10-05`
 <!-- activity ends -->
 
 </details>
