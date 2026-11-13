@@ -81,9 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
-- Worked on a pull request in [**vllm-project/llm-compressor**](https://github.com/vllm-project/llm-compressor) · `2026-10-29`
-- Pushed commits to [**arijitroy003/vllm-omni**](https://github.com/arijitroy003/vllm-omni) · `2026-10-28`
-- Worked on a pull request in [**duckdb/ducklake**](https://github.com/duckdb/ducklake) · `2026-10-19`
+- Pushed commits to [**arijitroy003/openevals**](https://github.com/arijitroy003/openevals) · `2026-11-13`
+- Pushed commits to [**arijitroy003/dbt-utils**](https://github.com/arijitroy003/dbt-utils) · `2026-11-13`
+- Pushed commits to [**arijitroy003/dbt-agent-skills**](https://github.com/arijitroy003/dbt-agent-skills) · `2026-11-13`
+- Pushed commits to [**arijitroy003/datafusion-ballista**](https://github.com/arijitroy003/datafusion-ballista) · `2026-11-13`
+- Pushed commits to [**arijitroy003/auron**](https://github.com/arijitroy003/auron) · `2026-11-13`
 <!-- activity ends -->
 
 </details>
