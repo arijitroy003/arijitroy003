@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
-- Pushed commits to [**arijitroy003/openevals**](https://github.com/arijitroy003/openevals) · `2026-11-13`
-- Pushed commits to [**arijitroy003/dbt-utils**](https://github.com/arijitroy003/dbt-utils) · `2026-11-13`
-- Pushed commits to [**arijitroy003/dbt-agent-skills**](https://github.com/arijitroy003/dbt-agent-skills) · `2026-11-13`
-- Pushed commits to [**arijitroy003/datafusion-ballista**](https://github.com/arijitroy003/datafusion-ballista) · `2026-11-13`
-- Pushed commits to [**arijitroy003/auron**](https://github.com/arijitroy003/auron) · `2026-11-13`
+- Pushed commits to [**arijitroy003/static-website-template-for-ospo**](https://github.com/arijitroy003/static-website-template-for-ospo) · `2026-11-13`
+- Pushed commits to [**arijitroy003/rhelai-sample-taxonomy**](https://github.com/arijitroy003/rhelai-sample-taxonomy) · `2026-11-13`
+- Pushed commits to [**arijitroy003/ansible-cloud\_utils**](https://github.com/arijitroy003/ansible-cloud_utils) · `2026-11-13`
+- Pushed commits to [**arijitroy003/ansible-redhat\_satellite6**](https://github.com/arijitroy003/ansible-redhat_satellite6) · `2026-11-13`
+- Pushed commits to [**arijitroy003/ksc**](https://github.com/arijitroy003/ksc) · `2026-11-13`
 <!-- activity ends -->
 
 </details>
