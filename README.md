@@ -81,11 +81,11 @@ Small, public experiments where I explore agent interfaces, developer tooling, d
 <summary><strong>Recent public activity</strong></summary>
 
 <!-- activity starts -->
-- Pushed commits to [**arijitroy003/dbt-project-evaluator**](https://github.com/arijitroy003/dbt-project-evaluator) · `2026-11-13`
-- Pushed commits to [**arijitroy003/Overpass**](https://github.com/arijitroy003/Overpass) · `2026-11-13`
-- Pushed commits to [**arijitroy003/pg\_duckdb**](https://github.com/arijitroy003/pg_duckdb) · `2026-11-13`
-- Pushed commits to [**arijitroy003/dbt-codegen**](https://github.com/arijitroy003/dbt-codegen) · `2026-11-13`
-- Pushed commits to [**arijitroy003/skills**](https://github.com/arijitroy003/skills) · `2026-11-13`
+- Pushed commits to [**arijitroy003/turbonomic-companion-operator**](https://github.com/arijitroy003/turbonomic-companion-operator) · `2026-11-13`
+- Pushed commits to [**arijitroy003/spark**](https://github.com/arijitroy003/spark) · `2026-11-13`
+- Pushed commits to [**arijitroy003/ansible-redhat\_cloudforms**](https://github.com/arijitroy003/ansible-redhat_cloudforms) · `2026-11-13`
+- Pushed commits to [**arijitroy003/creative**](https://github.com/arijitroy003/creative) · `2026-11-13`
+- Pushed commits to [**arijitroy003/ansible-role-red\_hat\_utility\_modules**](https://github.com/arijitroy003/ansible-role-red_hat_utility_modules) · `2026-11-13`
 <!-- activity ends -->
 
 </details>
